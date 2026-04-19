@@ -11,7 +11,7 @@ A collection of practical cybersecurity projects focused on securing systems, an
 
 - Scan open ports  
 - Detect services  
-- Identify security exposure  
+- Identify potential security exposure  
 
 ---
 
@@ -45,54 +45,58 @@ A collection of practical cybersecurity projects focused on securing systems, an
 ### 5️⃣ Brute Force Simulation
 📁 [View Project](./project-05-bruteforce-simulation)
 
-- Simulate brute force attacks  
-- Understand attack behavior  
-- Implement basic protection logic  
+- Simulate password attacks  
+- Understand brute force behavior  
+- Demonstrate weak password risks  
 
 ---
 
-### 6️⃣ Firewall Rules Simulator
+### 6️⃣ Firewall Rules Simulator Pro
 📁 [View Project](./project-06-firewall-rules)
 
-- Simulate allow/deny traffic  
-- Understand firewall logic  
-- Improve network security knowledge  
+- Simulate firewall logic  
+- Allow/Deny traffic  
+- Analyze packet filtering behavior  
 
 ---
 
-### 7️⃣ Secure Login System (Python)
+### 7️⃣ Secure Login System Pro
 📁 [View Project](./project-07-secure-login)
 
-- Implement authentication logic  
-- Secure password handling  
-- Prevent unauthorized access  
+- User authentication system  
+- Password hashing  
+- Account lock mechanism  
+- Activity logging  
 
 ---
 
-### 8️⃣ Linux Hardening Lab
+### 8️⃣ Linux Hardening Lab (Pro)
 📁 [View Project](./project-08-linux-hardening)
 
-- Secure users and permissions  
-- Disable unnecessary services  
-- Improve system security  
+- System hardening techniques  
+- Secure SSH configuration  
+- File permission control  
+- Firewall setup  
 
 ---
 
 ### 9️⃣ Secure API (Flask)
 📁 [View Project](./project-09-secure-api)
 
-- Build secure REST API  
+- Secure REST API  
+- Token-based authentication  
 - Input validation  
-- Authentication basics  
+- Protected endpoints  
 
 ---
 
-### 🔟 Security Audit Checklist
+### 🔟 Security Audit Tool
 📁 [View Project](./project-10-security-audit)
 
-- System review  
-- Risk identification  
-- Security best practices  
+- Perform security checks  
+- Detect weak configurations  
+- Analyze logs and files  
+- Generate audit reports  
 
 ---
 
@@ -105,9 +109,16 @@ A collection of practical cybersecurity projects focused on securing systems, an
 - Python Security Tools  
 - Log Analysis  
 - Secure Coding Practices  
+- Authentication & Authorization  
 
 ---
 
 ## 🎯 Goal
 
 Building strong cybersecurity knowledge and hands-on experience in protecting systems, detecting threats, and developing secure applications.
+
+---
+
+## 👩‍💻 Author
+
+Alhanoof Alabdullah
