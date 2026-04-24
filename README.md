@@ -1,124 +1,111 @@
-# 🛡️ Cybersecurity Projects Portfolio
+# Cybersecurity Projects Portfolio
 
-A collection of practical cybersecurity projects focused on securing systems, analyzing vulnerabilities, and understanding real-world attack scenarios.
+A professional collection of cybersecurity projects covering offensive security, defensive security, monitoring, automation, threat detection, access control, and security best practices using Python and Linux.
 
----
-
-## 📌 Projects
-
-### 1️⃣ Port Scanner Tool (Python)
-📁 [View Project](./project-01-port-scanner)
-
-- Scan open ports  
-- Detect services  
-- Identify potential security exposure  
+This repository demonstrates practical cybersecurity skills for real-world security operations, SOC workflows, system hardening, and security automation.
 
 ---
 
-### 2️⃣ Password Strength Checker
-📁 [View Project](./project-02-password-checker)
+# Projects Included
 
-- Validate password strength  
-- Detect weak patterns  
-- Improve user security awareness  
+## Project 01 — Port Scanner
+Scan open ports and identify exposed network services.
 
----
+## Project 02 — Password Checker
+Validate password strength and detect weak passwords.
 
-### 3️⃣ Log Analysis Tool
-📁 [View Project](./project-03-log-analysis)
+## Project 03 — Log Analysis
+Analyze security logs and detect suspicious activities.
 
-- Analyze system logs  
-- Detect suspicious activity  
-- Identify potential attacks  
+## Project 04 — File Integrity Monitor
+Monitor file changes and detect unauthorized modifications.
 
----
+## Project 05 — Brute Force Simulation
+Simulate brute-force attacks for security awareness.
 
-### 4️⃣ File Integrity Checker
-📁 [View Project](./project-04-file-integrity)
+## Project 06 — Firewall Rules Simulator
+Manage and simulate firewall security rules.
 
-- Monitor file changes  
-- Detect tampering  
-- Ensure system integrity  
+## Project 07 — Secure Login System
+Build secure authentication with password protection.
 
----
+## Project 08 — Linux Hardening
+Apply Linux server security best practices.
 
-### 5️⃣ Brute Force Simulation
-📁 [View Project](./project-05-bruteforce-simulation)
+## Project 09 — Secure API
+Develop secure API authentication and access control.
 
-- Simulate password attacks  
-- Understand brute force behavior  
-- Demonstrate weak password risks  
+## Project 10 — Security Audit Tool
+Perform system security audits and generate reports.
 
----
+## Project 11 — Network Vulnerability Scanner
+Scan networks and identify common security vulnerabilities.
 
-### 6️⃣ Firewall Rules Simulator Pro
-📁 [View Project](./project-06-firewall-rules)
+## Project 12 — Phishing URL Detector
+Detect suspicious phishing URLs and unsafe domains.
 
-- Simulate firewall logic  
-- Allow/Deny traffic  
-- Analyze packet filtering behavior  
+## Project 13 — Malware File Hash Checker
+Verify file hashes and detect known malicious files.
 
----
+## Project 14 — Network Traffic Analyzer
+Analyze suspicious traffic and detect risky IP behavior.
 
-### 7️⃣ Secure Login System Pro
-📁 [View Project](./project-07-secure-login)
+## Project 15 — Security Log Alert System
+Monitor logs and trigger security alerts automatically.
 
-- User authentication system  
-- Password hashing  
-- Account lock mechanism  
-- Activity logging  
+## Project 16 — Password Leak Checker
+Check passwords against known leaked password databases.
 
----
+## Project 17 — Email Header Analyzer
+Inspect email headers and detect spoofing attempts.
 
-### 8️⃣ Linux Hardening Lab (Pro)
-📁 [View Project](./project-08-linux-hardening)
+## Project 18 — File Permission Security Scanner
+Audit Linux file permissions and detect dangerous access rights.
 
-- System hardening techniques  
-- Secure SSH configuration  
-- File permission control  
-- Firewall setup  
+## Project 19 — Advanced Email Header Threat Analyzer
+Advanced detection of phishing indicators, suspicious domains, and malicious sender behavior.
 
----
-
-### 9️⃣ Secure API (Flask)
-📁 [View Project](./project-09-secure-api)
-
-- Secure REST API  
-- Token-based authentication  
-- Input validation  
-- Protected endpoints  
+## Project 20 — Secure SSH Access Auditor
+Audit SSH configurations and detect risky remote access settings.
 
 ---
 
-### 🔟 Security Audit Tool
-📁 [View Project](./project-10-security-audit)
+# Technologies Used
 
-- Perform security checks  
-- Detect weak configurations  
-- Analyze logs and files  
-- Generate audit reports  
-
----
-
-## 🛠 Skills Demonstrated
-
-- Cybersecurity Fundamentals  
-- Network Security  
-- System Hardening  
-- Threat Detection  
-- Python Security Tools  
-- Log Analysis  
-- Secure Coding Practices  
-- Authentication & Authorization  
+- Python
+- Linux
+- Cybersecurity Automation
+- Network Security
+- Threat Detection
+- Access Control
+- Log Monitoring
+- Security Auditing
+- System Hardening
+- Firewall Management
+- Secure Authentication
 
 ---
 
-## 🎯 Goal
+# Skills Demonstrated
 
-Building strong cybersecurity knowledge and hands-on experience in protecting systems, detecting threats, and developing secure applications.
+- Security Monitoring
+- Incident Detection
+- Vulnerability Assessment
+- Threat Hunting
+- Secure Configuration Review
+- Access Management
+- SOC Operations Support
+- Security Automation
+- Linux Administration
+- Defensive Security Engineering
 
 ---
 
-## 👩‍💻 Author
+# Author
 
 Alhanoof Alabdullah
+
+Senior Digital Transformation & Enterprise Systems Specialist  
+Cybersecurity | PMIS | Enterprise Systems | Automation | Governance
+
+---
