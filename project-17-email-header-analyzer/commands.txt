@@ -1,0 +1,5 @@
+cd ~/Cybersecurity-Projects
+mkdir project-17-email-header-analyzer
+cd project-17-email-header-analyzer
+
+touch README.md main.py email_headers.txt suspicious_domains.txt requirements.txt commands.txt
