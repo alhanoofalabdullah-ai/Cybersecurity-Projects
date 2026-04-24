@@ -1,0 +1,5 @@
+cd ~/Cybersecurity-Projects
+mkdir project-19-advanced-email-header-threat-analyzer
+cd project-19-advanced-email-header-threat-analyzer
+
+touch README.md main.py email_headers.txt suspicious_domains.txt requirements.txt commands.txt
