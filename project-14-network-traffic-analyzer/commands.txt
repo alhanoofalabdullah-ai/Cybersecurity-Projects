@@ -1,0 +1,5 @@
+cd ~/Cybersecurity-Projects
+mkdir project-14-network-traffic-analyzer
+cd project-14-network-traffic-analyzer
+
+touch README.md main.py traffic_logs.txt suspicious_ips.txt requirements.txt commands.txt
