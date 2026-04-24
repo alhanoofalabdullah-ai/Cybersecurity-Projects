@@ -1,0 +1,5 @@
+cd ~/Cybersecurity-Projects
+mkdir project-16-password-leak-checker
+cd project-16-password-leak-checker
+
+touch README.md main.py leaked_passwords.txt requirements.txt commands.txt
