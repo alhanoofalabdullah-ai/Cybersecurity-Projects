@@ -1,0 +1,5 @@
+From: support@secure-login-check.com
+Return-Path: admin@paypal-security-alert.net
+Received: from suspicious-mail-server.com
+From: notification@company.com
+From: verify@bank-login-check.org
