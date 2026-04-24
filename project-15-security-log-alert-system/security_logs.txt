@@ -1,0 +1,5 @@
+Failed login attempt from admin
+User login successful
+Brute force attack detected
+Unauthorized SSH access attempt
+System backup completed
