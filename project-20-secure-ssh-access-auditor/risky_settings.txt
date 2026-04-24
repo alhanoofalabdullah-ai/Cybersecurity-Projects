@@ -1,0 +1,2 @@
+permitrootlogin yes
+passwordauthentication yes
