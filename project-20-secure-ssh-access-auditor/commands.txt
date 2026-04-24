@@ -1,0 +1,5 @@
+cd ~/Cybersecurity-Projects
+mkdir project-20-secure-ssh-access-auditor
+cd project-20-secure-ssh-access-auditor
+
+touch README.md main.py ssh_config.txt risky_settings.txt requirements.txt commands.txt
