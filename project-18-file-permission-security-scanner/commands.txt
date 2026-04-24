@@ -1,0 +1,6 @@
+cd ~/Cybersecurity-Projects
+mkdir project-18-file-permission-security-scanner
+cd project-18-file-permission-security-scanner
+
+mkdir scan_folder
+touch README.md main.py requirements.txt commands.txt
