@@ -1,0 +1,5 @@
+cd ~/Cybersecurity-Projects
+mkdir project-15-security-log-alert-system
+cd project-15-security-log-alert-system
+
+touch README.md main.py security_logs.txt alert_keywords.txt requirements.txt commands.txt
