@@ -1,0 +1,4 @@
+From: support@secure-login-check.com
+From: admin@paypal-security-alert.net
+From: notification@company.com
+From: verify@bank-login-check.org
